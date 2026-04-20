@@ -12,7 +12,7 @@
 3. **啟動獵人**：執行 `抓取CODE.py` 開始自動掃描。
 
 ## 🤖 AI 協作說明 (AI Implementation)
-[cite_start]本專案全程使用 **Google Gemini** 協助開發 [cite: 22, 25]：
+[cite_start]本專案全程使用 **Google Gemini**與**Claude** 協助開發 [cite: 22, 25]：
 - [cite_start]**Debug 支援**：解決了 Facebook 動態選單定位失敗（Timeout）的問題 [cite: 25]。
 - **技術優化**：由 AI 建議改採「鍵盤模擬導航」與「URL 去重」技術，提升爬取穩定性。
-- [cite_start]**對話紀錄**：詳細 Debug 歷程請參閱 PPT 簡報 [cite: 33]。
+
