@@ -1,4 +1,4 @@
-# FB-vibe-coding：3DS 二手交易監控獵人
+# FB-vibe-coding： 二手交易監控
 
 ## 📌 專案用途 (Introduction)
 本專案為基礎程式設計(二)期中作業 。
