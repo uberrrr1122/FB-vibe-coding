@@ -1,8 +1,8 @@
 import requests
 from playwright.sync_api import sync_playwright
 
-TG_TOKEN = "8615407910:AAF7W3HujB77B9q4jzSrf-qoaXa9HaijTNI"
-TG_CHAT_ID = "7438587679"
+TG_TOKEN = "xxxxxxxxxxxxxxxx"
+TG_CHAT_ID = "xxxxxxxxxx"
 
 def send_telegram_msg(message):
     url = f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage"
