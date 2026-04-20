@@ -14,7 +14,7 @@
 
 ## 🤖 AI 協作說明 (AI Implementation)
 本專案全程使用 **Google Gemini**與**Claude** 協助開發 
-- **Debug 支援**：解決了 Facebook 動態選單定位失敗（Timeout）的問題 [cite: 25]。
+- **Debug 支援**：解決了 Facebook 動態選單定位失敗（Timeout）的問題 。
 - **技術優化**：由 AI 建議改採「鍵盤模擬導航」與「URL 去重」技術，提升爬取穩定性。
 
 ## ⚙️ 備註 (NOTE)
